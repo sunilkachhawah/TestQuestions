@@ -1,0 +1,1 @@
+insert into question values(1,'8','java','easy','a','b','c','d','select right option');
